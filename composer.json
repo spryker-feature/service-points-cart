@@ -6,11 +6,13 @@
     "minimum-stability": "dev",
     "prefer-stable": true,
     "require": {
-        "php": ">=8.0"
+        "php": ">=8.0",
+        "spryker-shop/service-point-cart-page": "^0.1.0",
+        "spryker/service-point-cart": "^0.1.0"
     },
     "extra": {
         "branch-alias": {
-            "dev-master": "202307.x-dev"
+            "dev-master": "202311.x-dev"
         }
     },
     "suggest": {

@@ -14,5 +14,5 @@ composer require spryker-feature/service-points-cart
 If you don't include the feature dependencies, make sure you use the respective modules instead.
 
 ## Optional modules
-- [ServicePointCartExtension ^0.2.0](https://github.com/spryker/service-point-cart-extension) (Extension)
-- [ServicePointCartsRestApi ^0.1.0](https://github.com/spryker/service-point-carts-rest-api) (Legacy Glue)
+- [ServicePointCartExtension ^1.0.0](https://github.com/spryker/service-point-cart-extension) (Extension)
+- [ServicePointCartsRestApi ^1.0.0](https://github.com/spryker/service-point-carts-rest-api) (Legacy Glue)

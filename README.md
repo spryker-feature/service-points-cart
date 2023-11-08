@@ -1,6 +1,6 @@
 # Spryker Feature: Service Points Cart
 
-
+The Service Points Cart feature allows customers to select a service point within the shopping cart during the checkout process.
 
 ## Installation
 

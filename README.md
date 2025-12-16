@@ -15,4 +15,4 @@ If you don't include the feature dependencies, make sure you use the respective 
 
 ## Optional modules
 - [ServicePointCartExtension ^1.0.0](https://github.com/spryker/service-point-cart-extension) (Extension)
-- [ServicePointCartsRestApi ^1.0.0](https://github.com/spryker/service-point-carts-rest-api) (Legacy Glue)
+- [ServicePointCartsRestApi ^1.1.0](https://github.com/spryker/service-point-carts-rest-api) (Legacy Glue)
